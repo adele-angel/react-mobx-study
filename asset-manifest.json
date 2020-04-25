@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-mobx-study/static/css/main.440b6247.chunk.css",
+    "main.js": "/react-mobx-study/static/js/main.2171f06d.chunk.js",
+    "main.js.map": "/react-mobx-study/static/js/main.2171f06d.chunk.js.map",
+    "runtime-main.js": "/react-mobx-study/static/js/runtime-main.809f918a.js",
+    "runtime-main.js.map": "/react-mobx-study/static/js/runtime-main.809f918a.js.map",
+    "static/js/2.23880347.chunk.js": "/react-mobx-study/static/js/2.23880347.chunk.js",
+    "static/js/2.23880347.chunk.js.map": "/react-mobx-study/static/js/2.23880347.chunk.js.map",
+    "index.html": "/react-mobx-study/index.html",
+    "precache-manifest.44acaf2e34b9a60e36b4b8a2209f52fb.js": "/react-mobx-study/precache-manifest.44acaf2e34b9a60e36b4b8a2209f52fb.js",
+    "service-worker.js": "/react-mobx-study/service-worker.js",
+    "static/css/main.440b6247.chunk.css.map": "/react-mobx-study/static/css/main.440b6247.chunk.css.map",
+    "static/js/2.23880347.chunk.js.LICENSE.txt": "/react-mobx-study/static/js/2.23880347.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-mobx-study/static/media/logo.c31c541e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.809f918a.js",
+    "static/js/2.23880347.chunk.js",
+    "static/css/main.440b6247.chunk.css",
+    "static/js/main.2171f06d.chunk.js"
+  ]
+}
