@@ -1,5 +1,7 @@
 # React, MobX and Hooks study
 
+Live demo: https://adele-angel.github.io/react-mobx-study/
+
 ### Dependencies
 ```
 $ npm install --save mobx mobx-react
